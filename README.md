@@ -1,2 +1,1 @@
-# PrepCourseHenry
-esteb es un repositorio de prueba de henry
+Este proyecto es una prueba para hacer un repositorio desde github clonarlo
